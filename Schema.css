@@ -1,0 +1,63 @@
+* {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  min-height: 100vh;
+}
+
+.title1 {
+  color: indianred;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Schema {
+  background: url("Schema.png") center no-repeat fixed;
+}
+
+.title2 {
+  color: indianred;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.one {
+  background: url("one.jpg") center no-repeat fixed;
+}
+
+.two {
+  background: url("two.jpg") center no-repeat fixed;
+}
+
+.three {
+  background: url("three.jpg") center no-repeat fixed;
+}
+
+.four {
+  background: url("four.jpg") center no-repeat fixed;
+}
+
+.five {
+  background: url("five.jpg") center no-repeat fixed;
+}
+
+.six {
+  background: url("six.jpg") center no-repeat fixed;
+}
+
+.seven {
+  background: url("seven.jpg") center no-repeat fixed;
+}
+
+.eight {
+  background: url("eight.jpg") center no-repeat fixed;
+}
+
+h1 {
+  margin-top: 20%;
+  font-size: 5em;
+}
